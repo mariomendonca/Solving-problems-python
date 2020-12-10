@@ -11,7 +11,7 @@ def subtraiElementos(listaNums):
 subtraiElementos([100,20,4,10])
 subtraiElementos([3, 10, 5])
 
-        
+
 
 
 
