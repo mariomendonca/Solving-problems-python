@@ -30,3 +30,5 @@ for i in range(n):
     print('S')
   else:
     print('N')
+
+#fazer com pilha 
